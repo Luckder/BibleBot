@@ -1,0 +1,2 @@
+# BibleBot
+BibleBot for Discord
