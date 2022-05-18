@@ -6,6 +6,8 @@ Currently, it contains KJV and Union simplified versions.
 
 Do not include the "<>", the "|", and anything after the "|"
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Usage(KJV):
 
 $bible <book_name OR book_number> <chapter_number> | Prints all verses in the specified chapter of specified book
