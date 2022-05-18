@@ -6,15 +6,17 @@ Currently, it contains KJV and Union simplified versions.
 
 Do not include the "<>", the "|", and anything after the "|"
 
-Usage(KJV): $bible <book_name OR book_number> <chapter_number> | Prints all verses in the specified chapter of specified book
+[Usage(KJV):]
 
-Usage(KJV): $bible <book_name OR book_number> <chapter_number> <verse_number> | Prints specified verse from specified chapter of specified book
+$bible <book_name OR book_number> <chapter_number> | Prints all verses in the specified chapter of specified book
 
-Usage(KJV): $bible <book_name OR book_number> <chapter_number> <verse_range_start> <verse_range_end> | Prints all verses in speciified verse range from specified chapter of specified book
+$bible <book_name OR book_number> <chapter_number> <verse_number> | Prints specified verse from specified chapter of specified book
+
+$bible <book_name OR book_number> <chapter_number> <verse_range_start> <verse_range_end> | Prints all verses in speciified verse range from specified chapter of specified book
 
 Usage(KJV); $bibleS <string_to_search> | Prints all verses that contain the specified string, NOT numbers
 
-Examples:
+[Examples:]
 
 $bible genesis 5 | Prints al verses of chapter 5 in Genesis
 
