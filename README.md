@@ -6,7 +6,7 @@ Currently, it contains KJV and Union simplified versions.
 
 Do not include the "<>", the "|", and anything after the "|"
 
-[Usage(KJV):]
+Usage(KJV):
 
 $bible <book_name OR book_number> <chapter_number> | Prints all verses in the specified chapter of specified book
 
@@ -16,7 +16,7 @@ $bible <book_name OR book_number> <chapter_number> <verse_range_start> <verse_ra
 
 Usage(KJV); $bibleS <string_to_search> | Prints all verses that contain the specified string, NOT numbers
 
-[Examples:]
+Examples:
 
 $bible genesis 5 | Prints al verses of chapter 5 in Genesis
 
