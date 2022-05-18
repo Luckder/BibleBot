@@ -28,13 +28,19 @@ $bible revelations 1 1 3 | Prints verses 1 to 3 of chapter 1 in Revelations
 
 To search for a string(KJV), simply append "S" to $bible:
 
-$bibleS <string_to_search> | Prints all verses that contain the specified string, DOES NOT accept numbers | Eg: $bibleS love
+$bibleS <string_to_search> | Prints all verses that contain the specified string, DOES NOT accept numbers
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Example:
 
 $bibleS love | Prints all verses that contain "love" from the entire bible
 
-For Union simplified version, simply append "C" to the end of $bible | Eg: $bibleC
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+For Union simplified version, simply append "C" to the end of $bible
+
+Example:
+
+$bibleC ...
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
